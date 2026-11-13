@@ -1,0 +1,26 @@
+iso3,country,region,gdp_usd_bn,gdp_year,industry_pct_gdp,industry_va_usd_bn,gdp_growth_avg_2021_25,gdp_growth_2025,capital_formation_pct_gdp,capital_formation_year,medhigh_tech_mfg_pct,medhigh_tech_year,urban_pct,urban_change_pp_2015_25,elec_kwh_pc,inflation_avg_2023_25,play,missing
+IND,India,South Asia,3956.067,2025,25.205,997.125,7.835,7.567,34.603,2025.0,41.555,2022,35.689,3.142,1181.631,4.334,Buildings and data centres; process automation for chemicals and refining,0
+IDN,Indonesia,Southeast Asia,1445.643,2025,38.708,559.576,4.84,5.108,30.619,2025.0,29.824,2022,59.393,6.221,1445.215,2.588,"Process automation for nickel, refining and LNG",0
+VNM,Vietnam,Southeast Asia,514.697,2025,37.649,193.779,6.226,8.019,30.795,2025.0,38.703,2022,38.83,6.449,2585.494,3.395,Factory and warehouse automation for relocating manufacturers,0
+THA,Thailand,Southeast Asia,577.01,2025,31.073,179.293,2.367,2.442,22.071,2025.0,41.356,2022,62.799,15.847,2965.213,0.498,Petrochemicals and buildings,0
+MYS,Malaysia,Southeast Asia,472.193,2025,35.667,168.419,5.232,5.171,20.461,2025.0,44.594,2022,77.395,3.956,5083.712,1.901,"LNG, semiconductors back-end, buildings",0
+PHL,Philippines,Southeast Asia,487.086,2025,26.99,131.463,5.786,4.402,22.141,2025.0,28.955,2022,55.773,4.618,924.623,3.616,"Buildings, airports, power",0
+BGD,Bangladesh,South Asia,456.319,2025,34.028,155.274,5.505,3.49,28.541,2025.0,7.815,2022,33.24,3.7,602.897,9.706,Power and textiles; early stage,0
+SAU,Saudi Arabia,Middle East,1276.943,2025,42.972,548.724,5.243,4.502,31.625,2025.0,29.05,2022,84.612,1.656,11910.578,2.033,"LNG, refining and giga-project buildings",0
+ARE,United Arab Emirates,Middle East,552.325,2024,44.329,244.842,5.09,3.992,26.639,2023.0,39.175,2022,85.962,1.633,15284.701,1.514,"Smart buildings, refining, LNG",0
+QAT,Qatar,Middle East,215.56,2025,57.043,122.962,2.602,2.902,30.643,2022.0,62.457,2022,99.359,0.421,19963.238,2.147,LNG expansion (North Field),0
+EGY,Egypt,Africa,365.255,2025,32.057,117.091,4.086,4.392,12.891,2025.0,18.791,2022,42.904,0.299,1492.896,25.41,"Refining, fertiliser, new cities",0
+TUR,Turkiye,Europe,1597.293,2025,24.023,383.721,5.846,3.605,31.667,2025.0,33.822,2022,89.494,2.277,3730.823,49.082,Process industries and buildings,0
+NGA,Nigeria,Africa,290.794,2025,16.443,47.817,3.366,4.013,,,33.436,2022,63.775,8.043,144.135,26.97,"Oil and gas, early stage",1
+KEN,Kenya,Africa,135.941,2025,16.273,22.121,5.493,4.633,16.955,2025.0,15.053,2022,32.212,0.478,195.294,5.41,"Infrastructure, early stage",0
+ZAF,South Africa,Africa,427.184,2025,24.09,102.909,1.874,1.115,13.871,2025.0,24.428,2022,63.815,0.606,3247.149,4.547,Mining and process industries,0
+MEX,Mexico,Latin America,1832.641,2025,30.563,560.118,2.955,0.562,22.611,2025.0,42.366,2022,80.041,2.851,2658.049,4.686,Nearshoring factory automation,0
+BRA,Brazil,Latin America,2279.92,2025,20.15,459.403,3.345,2.286,17.076,2025.0,31.338,2022,88.177,2.484,3068.096,4.659,"Oil and gas, pulp and paper",0
+CHL,Chile,Latin America,357.371,2025,31.424,112.299,3.869,2.459,24.057,2025.0,20.369,2022,89.177,1.712,4373.387,5.364,"Mining, green hydrogen",0
+COL,Colombia,Latin America,457.41,2025,21.76,99.534,4.621,2.642,16.719,2025.0,24.192,2022,78.783,1.619,1551.194,7.829,"Oil and gas, buildings",0
+POL,Poland,Europe,1035.492,2025,25.837,267.535,3.807,3.573,17.887,2025.0,32.988,2022,60.085,-0.251,4369.594,6.378,Manufacturing and energy transition,0
+USA,United States,North America,30769.7,2025,17.575,5407.826,3.313,2.161,21.533,2024.0,44.081,2022,80.192,-0.379,12839.342,3.533,Benchmark: largest installed base,0
+DEU,Germany,Europe,5050.923,2025,25.159,1270.752,0.919,0.24,21.931,2025.0,57.921,2022,82.138,1.441,6109.085,3.458,Benchmark: mature industrial base,0
+CHN,China,East Asia,19498.039,2025,35.642,6949.425,5.408,4.96,40.482,2024.0,41.451,2022,66.343,9.013,6523.719,0.171,Benchmark: largest but local competition,0
+JPN,Japan,East Asia,4435.163,2025,26.778,1187.653,1.314,1.193,27.679,2024.0,54.672,2022,92.3,0.947,7530.06,3.06,Benchmark: mature,0
+KOR,South Korea,East Asia,1872.375,2025,34.33,642.788,2.387,1.007,29.131,2025.0,65.568,2022,81.174,-0.465,11350.163,2.681,"Semiconductors, batteries",0
