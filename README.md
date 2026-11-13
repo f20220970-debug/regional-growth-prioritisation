@@ -1,5 +1,7 @@
 # Regional Growth Prioritisation Dashboard
 
+**Live app:** https://regional-growth-prioritisation-nttif7c9skzfmeb5obprrk.streamlit.app/
+
 An interactive Streamlit dashboard that ranks 25 countries on where an industrial-automation company should grow next. It scores each country on six World Bank pillars, and the weights are sliders, so the ranking updates as you change what matters. A robustness panel shows whether the answer depends on the weights.
 
 Built by Pavitra Seth (BITS Pilani) as preparation for Honeywell PS-II. It uses public data only and is not affiliated with Honeywell.
